@@ -19,6 +19,6 @@ Uygulama genelinde durumu korumamız gereken yerlerde Singleton kullanırız. Uy
 
 ![alt text](https://resimupload.org/images/2022/03/27/LifeCycleOfTheService.png)
 
-2.Resimde ise sayfaya yeni bir istek atıldığında oluşan ID değişimlerini gözlemlemekteyiz.
+Örnek Resim 2:
 
 ![alt text](https://resimupload.org/images/2022/03/27/LifeCycleOfTheService2.png)
